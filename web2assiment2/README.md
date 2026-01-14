@@ -18,6 +18,3 @@
 - Clean separation between backend and frontend
 - Responsive and minimal UI
 
-
-## Screenshots
-(Add screenshot of website or Postman here)
